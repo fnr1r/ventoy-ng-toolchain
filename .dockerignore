@@ -1,5 +1,4 @@
 /.build
+/include
 /.config*
 /build.log
-/include
-/src
